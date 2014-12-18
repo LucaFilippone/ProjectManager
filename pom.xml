@@ -11,6 +11,12 @@
 
   <modules>
     <module>manager-frontend</module>
+    <module>manager-services</module>
   </modules>
+
+  <properties>
+    <spring.version>4.1.1.RELEASE</spring.version>
+    <resteasy.version>2.3.6.Final</resteasy.version>
+  </properties>
 
 </project>
